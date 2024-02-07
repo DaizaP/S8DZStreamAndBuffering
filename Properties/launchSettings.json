@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "S8DZStreamAndBuffering": {
+      "commandName": "Project",
+      "commandLineArgs": ".txt \"Yes, you find me\""
+    }
+  }
+}
